@@ -1,8 +1,8 @@
 
-<iframe src="https://giphy.com/embed/5l7nnMic9R3SI9BG51" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/twentyonepilots-twenty-one-pilots-overcompensate-5l7nnMic9R3SI9BG51">
-
-
-<h2> Bem vindo ao meu espaço de programação :) </h2>
+<h1> Bem vindo ao meu espaço de programação :) </h1>
+<br>
+<h2> Sobre mim: </h2>
+<p> Especializada em Java, HTML e CSS. </p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sopadelobas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
