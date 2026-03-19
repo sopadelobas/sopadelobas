@@ -1,6 +1,6 @@
-<center>
-<img scr="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGFxcGM2ZmZmMmFpbjlvcTQ4dWp6bGx0YWt6cjAxajh6bjg2emg0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6wEFVABIPGDDfCat8e/giphy.gif">
-</center>
+
+<img scr="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGFxcGM2ZmZmMmFpbjlvcTQ4dWp6bGx0YWt6cjAxajh6bjg2emg0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6wEFVABIPGDDfCat8e/giphy.gif" align="center">
+
 
 <h2> Bem vindo ao meu espaço de programação :) </h2>
 
@@ -9,9 +9,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sopadelobas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<center>
-<img scr="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJsbmV3NGZmeml4dml0YTd5ZG85dzUzN3ByZmZhc2MwM28xdGk2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5l7nnMic9R3SI9BG51/giphy.gif">
-</center>
+
+<img scr="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJsbmV3NGZmeml4dml0YTd5ZG85dzUzN3ByZmZhc2MwM28xdGk2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5l7nnMic9R3SI9BG51/giphy.gif" align="center">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -29,15 +28,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 
-<center>
-<img scr="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGFxcGM2ZmZmMmFpbjlvcTQ4dWp6bGx0YWt6cjAxajh6bjg2emg0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6wEFVABIPGDDfCat8e/giphy.gif">
-</center>
+<img scr="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGFxcGM2ZmZmMmFpbjlvcTQ4dWp6bGx0YWt6cjAxajh6bjg2emg0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6wEFVABIPGDDfCat8e/giphy.gif" align="center">
 
-###
 
 <img src="https://raw.githubusercontent.com/sopadelobas/sopadelobas/output/snake.svg" alt="Snake animation" />
 
-###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sopadelobas.sopadelobas&"  />
